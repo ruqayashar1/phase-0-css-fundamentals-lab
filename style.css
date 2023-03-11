@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+header
+{
+  align-content: center;
+}
+img
+{
+  align-items: center;
+  text-align: center;
+  font-size: medium;
+}
+link
+{
+  padding: 10;
+  background-color: grey;
+}
+p
+{
+  width: 800px;
+}
+div
+{
+  float: left;
+  background-color: red;
+  text-align:center;
+  max-width: 0%;
+
+}
+  
